@@ -1,0 +1,38 @@
+PODS:
+  - ACFloatingTextfield-Swift (1.8)
+  - Alamofire (5.4.1)
+  - MBProgressHUD (1.2.0)
+  - RangeSeekSlider (1.8.0)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - ACFloatingTextfield-Swift
+  - Alamofire (~> 5.4)
+  - MBProgressHUD
+  - RangeSeekSlider
+  - SDWebImage
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - ACFloatingTextfield-Swift
+    - Alamofire
+    - MBProgressHUD
+    - RangeSeekSlider
+    - SDWebImage
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  ACFloatingTextfield-Swift: c3212cef9548ae58fa914ea1c26a2f9a4f7cd7df
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  RangeSeekSlider: 650b11fa1edcb92e1e0ede797669d98622570fb5
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: c23cb4bb6dac6ab1d414488115f1d0f50cdc6085
+
+COCOAPODS: 1.10.0.beta.2

@@ -1,0 +1,6 @@
+framework module Pods_HEMPDAY {
+  umbrella header "Pods-HEMPDAY-umbrella.h"
+
+  export *
+  module * { export * }
+}
